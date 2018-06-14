@@ -1,0 +1,11 @@
+git commands
+
+git init
+
+git add filename
+git add .
+git config --global user.name "SamridhiBindal"
+git config --global user.email "samridhibindal97@gmail.com"
+git commit -m "message"
+git remote add origin "URL"
+git push -u origin master
